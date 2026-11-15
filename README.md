@@ -1,12 +1,12 @@
 # Entrainment
 
-[![Test](https://github.com/Star-People/entrainment/actions/workflows/test.yml/badge.svg)](https://github.com/Star-People/entrainment/actions/workflows/test.yml)
-[![Deploy to GitHub Pages](https://github.com/Star-People/entrainment/actions/workflows/pages.yml/badge.svg)](https://github.com/Star-People/entrainment/actions/workflows/pages.yml)
+[![Test](https://github.com/starpeopleai/entrainment/actions/workflows/test.yml/badge.svg)](https://github.com/starpeopleai/entrainment/actions/workflows/test.yml)
+[![Deploy to GitHub Pages](https://github.com/starpeopleai/entrainment/actions/workflows/pages.yml/badge.svg)](https://github.com/starpeopleai/entrainment/actions/workflows/pages.yml)
 
 An inspectable stereo audio synthesizer inspired by Robert A. Monroe's expired
 US patent [US5213562A](https://patents.google.com/patent/US5213562A/en).
 
-Live app: https://star-people.github.io/entrainment/
+Live app: https://starpeopleai.github.io/entrainment/
 
 ![Entrainment reference signal running in the browser](screenshots/entrainment-desktop.png)
 
@@ -102,7 +102,7 @@ with correlation reported separately.
 ## Project Links
 
 - [UFO Files](https://ufo-files.app/)
-- [Source](https://github.com/Star-People/entrainment)
+- [Source](https://github.com/starpeopleai/entrainment)
 - [US5213562A](https://patents.google.com/patent/US5213562A/en)
 - [Anonymous tips](https://tips.hushline.app/to/ufo-files)
 
